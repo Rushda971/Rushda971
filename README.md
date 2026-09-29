@@ -41,7 +41,8 @@
 ###  CURSED ENERGY OUTPUT
 
 <div align="center">
-<img width="80%" src="https://githubreadmeactivitygraph.vercel.app/graphusername=Rushda971&bg_color=0a0010&color=CC66FF&line=7B2FBE&point=FF006E&area=true&hide_border=false&area_color=7B2FBE30" />
+<img src="./assets/checkora-final-ui-animated.gif" width="100%" alt="Checkora">
+<img src="./assets/jackers-vertical-readme-vibe.gif" width="300" alt="Jackers">
 </div>
 
 <br/>
