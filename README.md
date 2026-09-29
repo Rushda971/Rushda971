@@ -41,14 +41,20 @@
 ###  CURSED ENERGY OUTPUT
 
 <div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rushda971&bg_color=0a0010&color=CC66FF&line=7B2FBE&point=FF006E&area=true&hide_border=false&area_color=7B2FBE30" />
+<img width="80%" src="https://githubreadmeactivitygraph.vercel.app/graphusername=Rushda971&bg_color=0a0010&color=CC66FF&line=7B2FBE&point=FF006E&area=true&hide_border=false&area_color=7B2FBE30" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=Rushda971&theme=dark&background=0a0010&border=7B2FBE&ring=CC66FF&fire=FF006E&currStreakLabel=CC66FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9966cc" />
+
+<div>
+<img
+src="https://streak-stats.demolab.com/?user=Rushda971&theme=dark&background=050308&border=FF006E&ring=FF006E&fire=FF4D9D&currStreakLabel=FF4D9D&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"
+width="70%"
+alt="GitHub Streak"
+/>
 </div>
+<br><br>
 
 #  Contribution Creature
 
