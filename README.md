@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,mongodb,react,nodejs,express,tailwind,git,github,githubaction,vscode,figma&theme=dark&perline=8" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,mongodb,react,nodejs,express,tailwind,git,github,githubactions,vscode,figma&theme=dark&perline=9" alt="Tech stack">
   <br>
 </p>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-### ❖ SYSTEM REGISTRY ❖
+###  SYSTEM REGISTRY 
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&pause=3000&color=CC66FF&center=true&width=700&lines=[LOCATION]+India;[CLASS]+Frontend+Sorcerer;[CURRENT+ARC]+Building+an+Isometric+City;[ALIGNMENT]+Chaotic+Creative;[STATUS]+Grinding+New+Tech" />
 
@@ -41,9 +41,12 @@
 
 ###  CURSED ENERGY OUTPUT
 
+
+
+
 <div align="center">
 <img src="./assets/checkora-final-ui-animated.gif" width="100%" alt="Checkora">
-<img src="./assets/jackers-vertical-readme-vibe.gif" width="300" alt="Jackers">
+
 </div>
 
 <br/>
@@ -51,10 +54,9 @@
 
 <div>
 <img
-src="https://streak-stats.demolab.com/?user=Rushda971&theme=dark&background=050308&border=FF006E&ring=FF006E&fire=FF4D9D&currStreakLabel=FF4D9D&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"
-width="70%"
-alt="GitHub Streak"
-/>
+  src="https://streak-stats.demolab.com/?user=Rushda971&theme=dark&background=050308&border=FF2E93&ring=FF2E93&fire=FF2E93&currStreakLabel=FF2E93&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"
+  width="98%"
+  alt="GitHub Streak">
 </div>
 <br><br>
 
