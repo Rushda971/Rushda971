@@ -24,7 +24,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,git,github,vscode,figma&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,mongodb,react,nodejs,express,tailwind,git,github,githubaction,vscode,figma&theme=dark&perline=8" alt="Tech stack">
+  <br>
 </p>
 
 <br/>
